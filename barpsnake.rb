@@ -3,7 +3,7 @@ class Barpsnake < Formula
   homepage "https://github.com/BradleyWaffles/terminal-snake"
   url "https://github.com/BradleyWaffles/terminal-snake/releases/download/v1.0/barpsnake-1.0.tar.gz"
   version "1.0"
-  sha256 "36eceae0d7cff1da35a54084877bf49a56e9968bba9e32304e32ae79f07a51ff"
+  sha256 "12ae6e69dbebad5c1488d4aa19a9bc63b65208991c6e848755f28fd2e15b1663"
 
   depends_on "ncurses"
 
